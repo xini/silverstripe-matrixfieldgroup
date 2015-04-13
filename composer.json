@@ -1,0 +1,18 @@
+{
+	"name": "xini/silverstripe-matrixfieldgroup",
+	"description": "Allows to add form fields in a table like div structure.",
+	"type": "silverstripe-module",
+	"keywords": ["silverstripe", "form", "field", "table"],
+	"authors": [{
+		"name": "Florian Thoma",
+		"email": "florian@innoweb.com.au"
+	}],
+	"require":
+	{
+		"silverstripe/framework": "3.1.*",
+		"composer/installers": "*"
+	},
+	"extra": {
+		"installer-name": "matrixfieldgroup"
+	}
+}
