@@ -1,5 +1,8 @@
 # silverstripe-matrixfieldgroup
 
+**This is an archived project and is no longer maintained. Please do not file issues or pull-requests against this repo. If you wish to continue to develop this code yourself, we recommend you fork it or contact us.**
+
+
 Adds a field group that lets you add form field in a table like div structure 
 
 ## Requirements
